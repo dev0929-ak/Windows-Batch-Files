@@ -1,3 +1,5 @@
+REM This file is not real, it was used to demonstrate the login process
+REM I would suggest to delete the REM line after downloading, as it is just a comment
 @echo off & setlocal DisableDelayedExpansion
 set counter=4
 :Start
